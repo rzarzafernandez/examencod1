@@ -31,3 +31,7 @@ return aux;
   } 	 
     
 }
+
+/* Esto es una locura
+ *
+ */
